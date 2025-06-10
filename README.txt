@@ -25,3 +25,5 @@ ctm176@scarletmail.rutgers.edu      ctm176
 hk900@scarletmail.rutgers.edu       hk900
 
 To test the functionalities, please refer to the demo video attached along with this project.
+Demo Video link:
+https://drive.google.com/file/d/13fpVsnYbdRPaDpsWbJ4NxsCxMwkt4isc/view?usp=sharing
